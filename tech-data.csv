@@ -1,0 +1,10 @@
+Instrument,Primary Errors,Single-pass Error Rate (%),Read length,Run time,Gbp/run,cost/Gb
+3730xl (capillary),substitution,0.1-1,650,2h,0.0006,"$2,300,000"
+454 FLX Titanium,indel,1,400,10h,0.4,"$15,500"
+Illumina MiSeq v2,substitution,~0.1,50,5h,0.75,$996
+Illumina MiSeq v3,substitution,~0.1,150,20h,3.3,$250
+Illumina HiSeq 2500 - rapid run,substitution,~0.1,50,10h,15,$90
+Illumina HiSeq 2500 - high output v4,substitution,~0.1,250,6 days,500,$30
+Ion Torrent - Proton I,Indel,~1,175,4h,12.25,$82
+Oxford Nanopore,deletions,≥4*,3000,2h,0.09,"$1,100"
+PacBio RS,Indel,~13,9000,6h,0.9,"$1,000"
